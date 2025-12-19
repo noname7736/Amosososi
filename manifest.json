@@ -1,0 +1,21 @@
+
+{
+  "short_name": "DarkDragon",
+  "name": "Dark Dragon Intelligence Console",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3698/3698156.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3698/3698156.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#050505",
+  "background_color": "#050505"
+}
